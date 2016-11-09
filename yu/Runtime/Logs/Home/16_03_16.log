@@ -1,0 +1,11 @@
+[ 2016-03-16T10:41:05+08:00 ] ::1 /yu/index.php/Home/Index/index
+ERR: 1146:Table 'qdm106622141_db.yu_urls' doesn't exist
+ [ SQL璇彞 ] : SHOW COLUMNS FROM `yu_urls`
+
+[ 2016-03-16T10:53:06+08:00 ] ::1 /yu/index.php/Home/Index/open_urls
+ERR: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: 不知道这样的主机。 
+
+[ 2016-03-16T15:13:51+08:00 ] ::1 /yu/index.php/home/user/register_handle
+ERR: 1054:Unknown column 'ptspzy' in 'where clause'
+ [ SQL璇彞 ] : SELECT COUNT(*) AS tp_count FROM `yu_users` WHERE ( user_login=ptspzy ) LIMIT 1  
+

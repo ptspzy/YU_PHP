@@ -1,0 +1,37 @@
+[ 2016-03-15T08:30:11+08:00 ] ::1 /yu/index.php/Home/Index/open_notes9
+ERR: 非法操作:open_notes9
+
+[ 2016-03-15T09:23:15+08:00 ] ::1 /yu/index.php/Home/Urls/add
+ERR: 1048:Column 'user_id' cannot be null
+ [ SQL语句 ] : INSERT INTO `yu_urls` (`url_content`,`user_id`,`url_host`,`url_title`,`url_time`,`url_tag`,`url_open`) VALUES ('http://localhost/yu/index.php/Home/Urls/index',NULL,'localhost','Signin Template for Bootstrap','16-03-15 09:23:15','thinkphp跳转','1')
+
+[ 2016-03-15T09:24:18+08:00 ] ::1 /yu/index.php/Home/Urls/add
+ERR: 1048:Column 'user_id' cannot be null
+ [ SQL语句 ] : INSERT INTO `yu_urls` (`url_content`,`user_id`,`url_host`,`url_title`,`url_time`,`url_tag`,`url_open`) VALUES ('http://www.imooc.com/course/list',NULL,'www.imooc.com','暂无标题','16-03-15 09:24:18','thinkphp跳转','1')
+
+[ 2016-03-15T21:31:17+08:00 ] ::1 /yu/index.php/Home/Urls/show
+ERR: 模板不存在:./yu/Home/View/Urls/list_urls.html
+
+[ 2016-03-15T21:32:05+08:00 ] ::1 /yu/index.php/Home/Notes/show
+ERR: 非法操作:show
+
+[ 2016-03-15T22:02:09+08:00 ] ::1 /yu/index.php/Home/Index/index
+ERR: 1054:Unknown column '$USERID' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `yu_urls` WHERE ( user_id=$USERID ) ORDER BY ID desc LIMIT 1  
+
+[ 2016-03-15T22:03:01+08:00 ] ::1 /yu/index.php/Home/Index/index
+ERR: 1054:Unknown column '$USERID' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `yu_urls` WHERE ( user_id=$USERID ) ORDER BY ID desc LIMIT 1  
+
+[ 2016-03-15T22:15:46+08:00 ] ::1 /yu/index.php/Home/Index/index
+ERR: 1054:Unknown column '$USERID' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `yu_urls` WHERE ( user_id=$USERID ) ORDER BY ID desc LIMIT 1  
+
+[ 2016-03-15T22:16:14+08:00 ] ::1 /yu/index.php/Home/Index/index
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '} ) ORDER BY ID desc LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `yu_urls` WHERE ( user_id={$USERID} ) ORDER BY ID desc LIMIT 1  
+
+[ 2016-03-15T22:17:07+08:00 ] ::1 /yu/index.php/Home/Index/index
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '} ) ORDER BY ID desc LIMIT 0,6' at line 1
+ [ SQL语句 ] : SELECT * FROM `yu_urls` WHERE ( user_id={$USERID} ) ORDER BY ID desc LIMIT 0,6  
+

@@ -1,0 +1,1147 @@
+[ 2016-02-05T00:02:04+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000729s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001249s ]
+
+[ 2016-02-05T00:02:07+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001710s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002534s ]
+
+[ 2016-02-05T00:02:29+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000708s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001256s ]
+
+[ 2016-02-05T00:02:33+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000586s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001036s ]
+
+[ 2016-02-05T00:02:35+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000627s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001112s ]
+
+[ 2016-02-05T00:02:57+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000698s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001176s ]
+
+[ 2016-02-05T00:03:01+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002081s ]
+
+[ 2016-02-05T00:03:03+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000681s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001161s ]
+
+[ 2016-02-05T00:16:17+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000684s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001265s ]
+NOTIC: [8] Undefined variable: model E:\wamp\www\tp002\yu\Home\Controller\IndexController.class.php 第 33 行.
+
+[ 2016-02-05T00:16:20+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001225s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002064s ]
+NOTIC: [8] Undefined variable: model E:\wamp\www\tp002\yu\Home\Controller\IndexController.class.php 第 33 行.
+
+[ 2016-02-05T00:16:22+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002016s ]
+NOTIC: [8] Undefined variable: model E:\wamp\www\tp002\yu\Home\Controller\IndexController.class.php 第 33 行.
+
+[ 2016-02-05T00:16:38+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001215s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002107s ]
+NOTIC: [8] Undefined variable: model E:\wamp\www\tp002\yu\Home\Controller\IndexController.class.php 第 33 行.
+
+[ 2016-02-05T00:16:52+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001206s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002117s ]
+NOTIC: [8] Undefined variable: model E:\wamp\www\tp002\yu\Home\Controller\IndexController.class.php 第 33 行.
+
+[ 2016-02-05T00:17:43+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001225s ]
+NOTIC: [8] Undefined variable: model E:\wamp\www\tp002\yu\Home\Controller\IndexController.class.php 第 33 行.
+
+[ 2016-02-05T00:18:12+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000684s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001118s ]
+NOTIC: [8] Undefined variable: model E:\wamp\www\tp002\yu\Home\Controller\IndexController.class.php 第 33 行.
+
+[ 2016-02-05T00:19:01+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001406s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002342s ]
+NOTIC: [8] Undefined variable: model E:\wamp\www\tp002\yu\Home\Controller\IndexController.class.php 第 33 行.
+
+[ 2016-02-05T00:19:10+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001107s ]
+NOTIC: [8] Undefined variable: model E:\wamp\www\tp002\yu\Home\Controller\IndexController.class.php 第 33 行.
+
+[ 2016-02-05T00:20:35+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000897s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001486s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0035s ]
+SQL: SELECT url_tag FROM yu_urls WHERE url_tag = 'php连接数据库' [ RunTime:0.0003s ]
+
+[ 2016-02-05T00:20:52+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000686s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001360s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0084s ]
+SQL: SELECT url_tag FROM yu_urls WHERE url_tag = 'thinkphp' [ RunTime:0.0003s ]
+
+[ 2016-02-05T00:20:54+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000745s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001259s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0071s ]
+SQL: SELECT url_tag FROM yu_urls WHERE url_tag = 'mysql' [ RunTime:0.0006s ]
+
+[ 2016-02-05T13:24:42+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000675s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001118s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0083s ]
+SQL: SELECT url_tag FROM yu_urls WHERE url_tag = 'mysql' [ RunTime:0.0004s ]
+
+[ 2016-02-05T13:24:45+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000743s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001253s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0081s ]
+SQL: SELECT url_tag FROM yu_urls WHERE url_tag = 'mysql' [ RunTime:0.0008s ]
+
+[ 2016-02-05T13:24:47+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000816s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001395s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0426s ]
+SQL: SELECT url_tag FROM yu_urls WHERE url_tag = 'thinkphp' [ RunTime:0.0004s ]
+
+[ 2016-02-05T13:25:11+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002401s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0039s ]
+SQL: SELECT url_tag FROM yu_urls WHERE url_tag = 'thinkphp' [ RunTime:0.0004s ]
+
+[ 2016-02-05T13:27:05+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001084s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001801s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0072s ]
+SQL: SELECT url_tag FROM yu_urls WHERE url_tag = 'thinkphp' [ RunTime:0.0004s ]
+
+[ 2016-02-05T13:29:43+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000633s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001083s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0074s ]
+SQL: SELECT url_tag FROM yu_urls WHERE url_tag = 'thinkphp' [ RunTime:0.0003s ]
+
+[ 2016-02-05T13:29:45+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000638s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001089s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0036s ]
+SQL: SELECT url_tag FROM yu_urls WHERE url_tag = 'php连接数据库' [ RunTime:0.0003s ]
+
+[ 2016-02-05T13:30:10+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000701s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001115s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0071s ]
+SQL: SELECT url_tag FROM yu_urls WHERE url_tag = 'thinkphp' [ RunTime:0.0007s ]
+
+[ 2016-02-05T13:30:58+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000660s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001164s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0797s ]
+SQL: SELECT url_tag FROM yu_urls WHERE url_tag = 'thinkphp' [ RunTime:0.0003s ]
+
+[ 2016-02-05T13:31:18+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000615s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001087s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0071s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'php连接数据库' [ RunTime:0.0003s ]
+
+[ 2016-02-05T13:54:53+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001150s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001700s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0036s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'thinkphp' [ RunTime:0.0005s ]
+
+[ 2016-02-05T13:54:55+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001117s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001854s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0814s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'js模板引擎' [ RunTime:0.0004s ]
+
+[ 2016-02-05T13:54:57+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000862s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001514s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0076s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'mysql' [ RunTime:0.0004s ]
+
+[ 2016-02-05T13:54:58+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000676s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001118s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0071s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'php' [ RunTime:0.0004s ]
+
+[ 2016-02-05T13:55:02+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001191s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0052s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'js模板引擎' [ RunTime:0.0005s ]
+
+[ 2016-02-05T13:55:03+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001760s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.1014s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'mysql' [ RunTime:0.0008s ]
+
+[ 2016-02-05T14:05:18+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002092s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0049s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'thinkphp' [ RunTime:0.0004s ]
+
+[ 2016-02-05T14:05:20+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001152s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001932s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0047s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'php连接数据库' [ RunTime:0.0005s ]
+
+[ 2016-02-05T14:05:22+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000980s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001598s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0045s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = '触发器' [ RunTime:0.0004s ]
+
+[ 2016-02-05T14:19:36+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000712s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001107s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0073s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'thinkphp' [ RunTime:0.0003s ]
+
+[ 2016-02-05T14:19:40+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000693s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001148s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0038s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'thinkphp' [ RunTime:0.0003s ]
+
+[ 2016-02-05T14:19:42+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000662s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001167s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0078s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = '触发器' [ RunTime:0.0005s ]
+
+[ 2016-02-05T14:19:44+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000719s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001230s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0075s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'mysql' [ RunTime:0.0003s ]
+
+[ 2016-02-05T14:24:08+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000816s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001459s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0071s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'js模板引擎' [ RunTime:0.0003s ]
+
+[ 2016-02-05T14:24:10+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001089s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001727s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0072s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'mysql' [ RunTime:0.0003s ]
+
+[ 2016-02-05T14:24:40+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000757s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001456s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0043s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'js模板引擎' [ RunTime:0.0003s ]
+
+[ 2016-02-05T14:24:43+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000959s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001698s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0074s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'thinkphp' [ RunTime:0.0003s ]
+
+[ 2016-02-05T14:24:47+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000646s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001085s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0580s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'js模板引擎' [ RunTime:0.0004s ]
+
+[ 2016-02-05T14:24:51+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001173s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001982s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0043s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'mysql' [ RunTime:0.0004s ]
+
+[ 2016-02-05T14:25:27+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000841s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001484s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0037s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'php连接数据库' [ RunTime:0.0003s ]
+
+[ 2016-02-05T14:25:45+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001111s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0039s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'js模板引擎' [ RunTime:0.0003s ]
+
+[ 2016-02-05T14:25:46+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000745s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001682s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0772s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'thinkphp' [ RunTime:0.0004s ]
+
+[ 2016-02-05T14:26:15+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001173s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001999s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0056s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'thinkphp' [ RunTime:0.0004s ]
+
+[ 2016-02-05T14:28:04+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000832s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001325s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.1658s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'js模板引擎' [ RunTime:0.0008s ]
+
+[ 2016-02-05T14:28:40+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002039s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0070s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'thinkphp' [ RunTime:0.0004s ]
+
+[ 2016-02-05T14:40:24+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001456s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002479s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0357s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'thinkphp' [ RunTime:0.0005s ]
+
+[ 2016-02-05T14:40:56+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002115s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0077s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'js模板引擎' [ RunTime:0.0005s ]
+
+[ 2016-02-05T14:41:17+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002317s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0088s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'thinkphp' [ RunTime:0.0005s ]
+
+[ 2016-02-05T14:43:01+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000962s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002002s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0074s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'thinkphp' [ RunTime:0.0004s ]
+
+[ 2016-02-05T14:43:30+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001176s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002087s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0079s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'js模板引擎' [ RunTime:0.0004s ]
+
+[ 2016-02-05T14:43:40+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001866s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0043s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'thinkphp' [ RunTime:0.0004s ]
+
+[ 2016-02-05T14:44:42+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002396s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0053s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'js模板引擎' [ RunTime:0.0004s ]
+
+[ 2016-02-05T14:44:44+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001897s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0081s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'thinkphp' [ RunTime:0.0005s ]
+
+[ 2016-02-05T14:44:46+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002035s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0046s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'js模板引擎' [ RunTime:0.0005s ]
+
+[ 2016-02-05T14:44:57+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002090s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0049s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'js模板引擎' [ RunTime:0.0004s ]
+
+[ 2016-02-05T14:44:59+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002240s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0050s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'js模板引擎' [ RunTime:0.0003s ]
+
+[ 2016-02-05T14:45:00+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001676s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002705s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0076s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'thinkphp' [ RunTime:0.0004s ]
+
+[ 2016-02-05T14:45:02+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002223s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0046s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'php' [ RunTime:0.0005s ]
+
+[ 2016-02-05T14:45:04+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002433s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0048s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'js模板引擎' [ RunTime:0.0004s ]
+
+[ 2016-02-05T14:45:09+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002701s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0071s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'js模板引擎' [ RunTime:0.0004s ]
+
+[ 2016-02-05T14:45:11+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001383s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002296s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0073s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'php连接数据库' [ RunTime:0.0005s ]
+
+[ 2016-02-05T14:45:18+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002041s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0048s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'js模板引擎' [ RunTime:0.0005s ]
+
+[ 2016-02-05T14:45:20+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002396s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0074s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'js模板引擎' [ RunTime:0.0004s ]
+
+[ 2016-02-05T14:46:32+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002152s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0077s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'js模板引擎' [ RunTime:0.0006s ]
+
+[ 2016-02-05T14:46:34+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000889s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001460s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0079s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'mysql' [ RunTime:0.0004s ]
+
+[ 2016-02-05T14:46:35+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001153s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002002s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0040s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = '触发器' [ RunTime:0.0004s ]
+
+[ 2016-02-05T14:46:37+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001119s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001915s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0728s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'thinkphp' [ RunTime:0.0004s ]
+
+[ 2016-02-05T14:46:38+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001136s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001944s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0522s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'mysql' [ RunTime:0.0003s ]
+
+[ 2016-02-05T14:46:40+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002358s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0045s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'php' [ RunTime:0.0005s ]
+
+[ 2016-02-05T14:48:14+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001826s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0073s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'js模板引擎' [ RunTime:0.0004s ]
+
+[ 2016-02-05T14:48:15+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002295s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0076s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'thinkphp' [ RunTime:0.0003s ]
+
+[ 2016-02-05T14:50:07+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002088s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002956s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0073s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'thinkphp' [ RunTime:0.0003s ]
+
+[ 2016-02-05T14:50:09+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002195s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0053s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'php连接数据库' [ RunTime:0.0005s ]
+
+[ 2016-02-05T14:50:10+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001144s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001995s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0107s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'php连接数据库' [ RunTime:0.0005s ]
+
+[ 2016-02-05T14:50:12+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001782s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0044s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'php' [ RunTime:0.0005s ]
+
+[ 2016-02-05T14:50:15+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002088s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.1278s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'thinkphp' [ RunTime:0.0003s ]
+
+[ 2016-02-05T14:50:17+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002233s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0080s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'php连接数据库' [ RunTime:0.0005s ]
+
+[ 2016-02-05T15:22:23+08:00 ] ::1 /tp002/index.php/Home/Index/search_all
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000613s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001102s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0073s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag LIKE '%0%' OR url_title LIKE '%0%' [ RunTime:0.0003s ]
+NOTIC: [8] Trying to get property of non-object E:\wamp\www\tp002\yu\Home\Controller\IndexController.class.php 第 46 行.
+
+[ 2016-02-05T15:23:16+08:00 ] ::1 /tp002/index.php/Home/Index/search_all
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000693s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001229s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0040s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag LIKE '%p%' OR url_title LIKE '%p%' [ RunTime:0.0004s ]
+NOTIC: [8] Trying to get property of non-object E:\wamp\www\tp002\yu\Home\Controller\IndexController.class.php 第 46 行.
+
+[ 2016-02-05T15:23:36+08:00 ] ::1 /tp002/index.php/Home/Index/search_all
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001105s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0036s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag LIKE '%0%' OR url_title LIKE '%0%' [ RunTime:0.0004s ]
+NOTIC: [8] Trying to get property of non-object E:\wamp\www\tp002\yu\Home\Controller\IndexController.class.php 第 46 行.
+
+[ 2016-02-05T15:23:40+08:00 ] ::1 /tp002/index.php/Home/Index/search_all
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000720s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001311s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0578s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag LIKE '%p%' OR url_title LIKE '%p%' [ RunTime:0.0005s ]
+NOTIC: [8] Trying to get property of non-object E:\wamp\www\tp002\yu\Home\Controller\IndexController.class.php 第 46 行.
+
+[ 2016-02-05T15:23:43+08:00 ] ::1 /tp002/index.php/Home/Index/search_all
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000872s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001499s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0078s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag LIKE '%p%' OR url_title LIKE '%p%' [ RunTime:0.0005s ]
+NOTIC: [8] Trying to get property of non-object E:\wamp\www\tp002\yu\Home\Controller\IndexController.class.php 第 46 行.
+
+[ 2016-02-05T15:23:52+08:00 ] ::1 /tp002/index.php/Home/Index/search_all
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000779s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001274s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0071s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag LIKE '%p%' OR url_title LIKE '%p%' [ RunTime:0.0004s ]
+NOTIC: [8] Trying to get property of non-object E:\wamp\www\tp002\yu\Home\Controller\IndexController.class.php 第 46 行.
+
+[ 2016-02-05T15:24:13+08:00 ] ::1 /tp002/index.php/Home/Index/search_all
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000831s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001415s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0087s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%' OR url_title LIKE '%h'%'' at line 1
+ [ SQL语句 ] : SELECT * FROM yu_urls WHERE url_tag LIKE '%h'%' OR url_title LIKE '%h'%'
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%' OR url_title LIKE '%h'%'' at line 1
+ [ SQL语句 ] : SELECT * FROM yu_urls WHERE url_tag LIKE '%h'%' OR url_title LIKE '%h'%'
+
+[ 2016-02-05T15:24:22+08:00 ] ::1 /tp002/index.php/Home/Index/search_all
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000685s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001184s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0082s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag LIKE '%00%' OR url_title LIKE '%00%' [ RunTime:0.0004s ]
+NOTIC: [8] Trying to get property of non-object E:\wamp\www\tp002\yu\Home\Controller\IndexController.class.php 第 46 行.
+
+[ 2016-02-05T15:24:28+08:00 ] ::1 /tp002/index.php/Home/Index/search_all
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000706s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001188s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0041s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag LIKE '%php%' OR url_title LIKE '%php%' [ RunTime:0.0004s ]
+NOTIC: [8] Trying to get property of non-object E:\wamp\www\tp002\yu\Home\Controller\IndexController.class.php 第 46 行.
+
+[ 2016-02-05T15:28:02+08:00 ] ::1 /tp002/index.php/Home/Index/search_all
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000593s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001075s ]
+
+[ 2016-02-05T15:28:32+08:00 ] ::1 /tp002/index.php/Home/Index/search_all
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000626s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001130s ]
+
+[ 2016-02-05T15:28:38+08:00 ] ::1 /tp002/index.php/Home/Index/search_all
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000805s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001280s ]
+
+[ 2016-02-05T15:29:18+08:00 ] ::1 /tp002/index.php/Home/Index/search_all
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000710s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001192s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0073s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag LIKE '%pp%' OR url_title LIKE '%pp%' [ RunTime:0.0004s ]
+
+[ 2016-02-05T15:29:23+08:00 ] ::1 /tp002/index.php/Home/Index/search_all
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000943s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001581s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0046s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag LIKE '%php%' OR url_title LIKE '%php%' [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: list_tag_click E:\wamp\www\tp002\yu\Home\Controller\IndexController.class.php 第 47 行.
+
+[ 2016-02-05T15:30:00+08:00 ] ::1 /tp002/index.php/Home/Index/search_all
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001814s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0042s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag LIKE '%gg%' OR url_title LIKE '%gg%' [ RunTime:0.0004s ]
+
+[ 2016-02-05T15:30:03+08:00 ] ::1 /tp002/index.php/Home/Index/search_all
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000643s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001144s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0068s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag LIKE '%php%' OR url_title LIKE '%php%' [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: list_tag_click E:\wamp\www\tp002\yu\Home\Controller\IndexController.class.php 第 47 行.
+
+[ 2016-02-05T15:31:12+08:00 ] ::1 /tp002/index.php/Home/Index/search_all
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000831s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001422s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0068s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag LIKE '%php%' OR url_title LIKE '%php%' [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: list_tag_click E:\wamp\www\tp002\yu\Home\Controller\IndexController.class.php 第 47 行.
+
+[ 2016-02-05T15:32:23+08:00 ] ::1 /tp002/index.php/Home/Index/search_all
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000696s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001211s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0072s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag LIKE '%php%' OR url_title LIKE '%php%' [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: list_tag_click E:\wamp\www\tp002\yu\Home\Controller\IndexController.class.php 第 47 行.
+
+[ 2016-02-05T15:32:52+08:00 ] ::1 /tp002/index.php/Home/Index/search_all
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000713s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001144s ]
+
+[ 2016-02-05T15:33:02+08:00 ] ::1 /tp002/index.php/Home/Index/search_all
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000754s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001397s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0070s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag LIKE '%php%' OR url_title LIKE '%php%' [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: list_tag_click E:\wamp\www\tp002\yu\Home\Controller\IndexController.class.php 第 47 行.
+
+[ 2016-02-05T15:33:39+08:00 ] ::1 /tp002/index.php/Home/Index/search_all
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000660s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001174s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0045s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag LIKE '%php%' OR url_title LIKE '%php%' [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: list_tag_click E:\wamp\www\tp002\yu\Home\Controller\IndexController.class.php 第 47 行.
+
+[ 2016-02-05T15:34:28+08:00 ] ::1 /tp002/index.php/Home/Index/search_all
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002229s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0069s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag LIKE '%php%' OR url_title LIKE '%php%' [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: list_tag_click E:\wamp\www\tp002\yu\Home\Controller\IndexController.class.php 第 47 行.
+
+[ 2016-02-05T15:35:48+08:00 ] ::1 /tp002/index.php/Home/Index/search_all
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001332s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0359s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag LIKE '%php%' OR url_title LIKE '%php%' [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: list_tag_click E:\wamp\www\tp002\yu\Home\Controller\IndexController.class.php 第 48 行.
+
+[ 2016-02-05T15:36:00+08:00 ] ::1 /tp002/index.php/Home/Index/search_all
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001731s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0082s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag LIKE '%php%' OR url_title LIKE '%php%' [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: list_tag_click E:\wamp\www\tp002\yu\Home\Controller\IndexController.class.php 第 48 行.
+
+[ 2016-02-05T15:36:17+08:00 ] ::1 /tp002/index.php/Home/Index/search_all
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000735s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001363s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0040s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag LIKE '%php%' OR url_title LIKE '%php%' [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: list_tag_click E:\wamp\www\tp002\yu\Home\Controller\IndexController.class.php 第 48 行.
+
+[ 2016-02-05T15:36:23+08:00 ] ::1 /tp002/index.php/Home/Index/search_all
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001714s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0080s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag LIKE '%php%' OR url_title LIKE '%php%' [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: list_tag_click E:\wamp\www\tp002\yu\Home\Controller\IndexController.class.php 第 48 行.
+
+[ 2016-02-05T15:37:17+08:00 ] ::1 /tp002/index.php/Home/Index/search_all
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000856s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001595s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0042s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag LIKE '%g%' OR url_title LIKE '%g%' [ RunTime:0.0004s ]
+
+[ 2016-02-05T15:37:20+08:00 ] ::1 /tp002/index.php/Home/Index/search_all
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000636s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001128s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0071s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag LIKE '%php%' OR url_title LIKE '%php%' [ RunTime:0.0004s ]
+
+[ 2016-02-05T15:38:47+08:00 ] ::1 /tp002/index.php/Home/Index/search_all
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000758s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001285s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0046s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag LIKE '%php%' OR url_title LIKE '%php%' [ RunTime:0.0004s ]
+
+[ 2016-02-05T15:38:54+08:00 ] ::1 /tp002/index.php/Home/Index/search_all
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000788s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001326s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0070s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag LIKE '%ff%' OR url_title LIKE '%ff%' [ RunTime:0.0003s ]
+
+[ 2016-02-05T15:38:56+08:00 ] ::1 /tp002/index.php/Home/Index/search_all
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000764s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001261s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0071s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag LIKE '%00%' OR url_title LIKE '%00%' [ RunTime:0.0004s ]
+
+[ 2016-02-05T15:38:59+08:00 ] ::1 /tp002/index.php/Home/Index/search_all
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001079s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001787s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0073s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag LIKE '%html%' OR url_title LIKE '%html%' [ RunTime:0.0004s ]
+
+[ 2016-02-05T15:39:03+08:00 ] ::1 /tp002/index.php/Home/Index/search_all
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001147s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002025s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0070s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag LIKE '%happy%' OR url_title LIKE '%happy%' [ RunTime:0.0003s ]
+
+[ 2016-02-05T15:39:04+08:00 ] ::1 /tp002/index.php/Home/Index/search_all
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000806s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001662s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0470s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag LIKE '%happy%' OR url_title LIKE '%happy%' [ RunTime:0.0003s ]
+
+[ 2016-02-05T15:39:08+08:00 ] ::1 /tp002/index.php/Home/Index/search_all
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000751s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001307s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0078s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag LIKE '%js%' OR url_title LIKE '%js%' [ RunTime:0.0004s ]
+
+[ 2016-02-05T19:39:52+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000692s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001123s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0073s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = '触发器' [ RunTime:0.0005s ]
+
+[ 2016-02-05T19:39:54+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000778s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001232s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0154s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'thinkphp' [ RunTime:0.0004s ]
+
+[ 2016-02-05T19:39:57+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001127s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0074s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'php' [ RunTime:0.0003s ]
+
+[ 2016-02-05T19:40:00+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000700s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001387s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0038s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'js模板引擎' [ RunTime:0.0004s ]
+
+[ 2016-02-05T19:40:03+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000792s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001424s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.1910s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'mysql' [ RunTime:0.0005s ]
+
+[ 2016-02-05T19:40:05+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000987s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001679s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0041s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'php' [ RunTime:0.0003s ]
+
+[ 2016-02-05T19:40:08+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000743s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001231s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0077s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'thinkphp' [ RunTime:0.0004s ]
+
+[ 2016-02-05T19:40:09+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000644s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001168s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0041s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'js模板引擎' [ RunTime:0.0004s ]
+
+[ 2016-02-05T19:40:11+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002355s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0076s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'php' [ RunTime:0.0004s ]
+
+[ 2016-02-05T19:51:42+08:00 ] ::1 /tp002/index.php/Home/Index/localhostecho%20$_SERVER['HTTP_HOST'];
+ERR: 非法操作:localhostecho $_SERVER['HTTP_HOST'];
+
+[ 2016-02-05T19:53:45+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001209s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0070s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'thinkphp' [ RunTime:0.0003s ]
+
+[ 2016-02-05T19:53:46+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001060s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001802s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0201s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'php连接数据库' [ RunTime:0.0016s ]
+
+[ 2016-02-05T19:54:06+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001199s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001993s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0074s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'php连接数据库' [ RunTime:0.0004s ]
+
+[ 2016-02-05T19:54:10+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001148s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001943s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0045s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'js模板引擎' [ RunTime:0.0004s ]
+
+[ 2016-02-05T20:18:38+08:00 ] ::1 /tp002/index.php/Home/User/
+ERR: 无法加载控制器:User
+
+[ 2016-02-05T20:19:09+08:00 ] ::1 /tp002/index.php/Home/User/css/bootstrap.min.css
+ERR: 非法操作:css
+
+[ 2016-02-05T20:19:09+08:00 ] ::1 /tp002/index.php/Home/User/css/signin.css
+ERR: 非法操作:css
+
+[ 2016-02-05T20:19:09+08:00 ] ::1 /tp002/index.php/Home/User/js/ie-emulation-modes-warning.js
+ERR: 非法操作:js
+
+[ 2016-02-05T20:53:42+08:00 ] ::1 /tp002/index.php/Home/User/add
+ERR: 非法操作:add
+
+[ 2016-02-05T20:53:54+08:00 ] ::1 /tp002/index.php/Home/User/addurl
+ERR: 非法操作:addurl
+
+[ 2016-02-05T20:54:04+08:00 ] ::1 /tp002/index.php/Home/Index/css/bootstrap.min.css
+ERR: 非法操作:css
+
+[ 2016-02-05T20:54:04+08:00 ] ::1 /tp002/index.php/Home/Index/css/signin.css
+ERR: 非法操作:css
+
+[ 2016-02-05T20:54:04+08:00 ] ::1 /tp002/index.php/Home/Index/deal/yzm.php?r=
+ERR: 非法操作:deal
+
+[ 2016-02-05T20:54:04+08:00 ] ::1 /tp002/index.php/Home/Index/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-02-05T20:54:04+08:00 ] ::1 /tp002/index.php/Home/Index/js/ie10-viewport-bug-workaround.js
+ERR: 非法操作:js
+
+[ 2016-02-05T21:28:40+08:00 ] ::1 /tp002/index.php/Home/Index/deal/yzm.php?r=
+ERR: 非法操作:deal
+
+[ 2016-02-05T21:36:56+08:00 ] ::1 /tp002/index.php/Home/Index/ajax_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000803s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001335s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0366s ]
+SQL: SELECT * FROM yu_urls WHERE url_tag = 'thinkphp' [ RunTime:0.0004s ]
+
+[ 2016-02-05T21:40:37+08:00 ] ::1 /tp002/index.php/Home/Index/deal/yzm.php?r=0.6756048705428839
+ERR: 非法操作:deal
+
+[ 2016-02-05T21:40:39+08:00 ] ::1 /tp002/index.php/Home/Index/deal/yzm.php?r=0.25410600984469056
+ERR: 非法操作:deal
+
+[ 2016-02-05T21:40:40+08:00 ] ::1 /tp002/index.php/Home/Index/deal/yzm.php?r=0.692069657612592
+ERR: 非法操作:deal
+
+[ 2016-02-05T21:40:40+08:00 ] ::1 /tp002/index.php/Home/Index/deal/yzm.php?r=0.9545787067618221
+ERR: 非法操作:deal
+
+[ 2016-02-05T21:40:40+08:00 ] ::1 /tp002/index.php/Home/Index/deal/yzm.php?r=0.17015945259481668
+ERR: 非法操作:deal
+
+[ 2016-02-05T21:40:40+08:00 ] ::1 /tp002/index.php/Home/Index/deal/yzm.php?r=0.08076843759045005
+ERR: 非法操作:deal
+
+[ 2016-02-05T21:40:41+08:00 ] ::1 /tp002/index.php/Home/Index/deal/yzm.php?r=0.23564042197540402
+ERR: 非法操作:deal
+
+[ 2016-02-05T21:40:41+08:00 ] ::1 /tp002/index.php/Home/Index/deal/yzm.php?r=0.36299108108505607
+ERR: 非法操作:deal
+
+[ 2016-02-05T21:44:37+08:00 ] ::1 /tp002/index.php/Home/Index/verify_c.html20538
+ERR: 非法操作:verify_c.html20538
+
+[ 2016-02-05T21:44:44+08:00 ] ::1 /tp002/index.php/Home/Index/deal/yzm.php?r=0.9638098941650242
+ERR: 非法操作:deal
+
+[ 2016-02-05T21:44:45+08:00 ] ::1 /tp002/index.php/Home/Index/deal/yzm.php?r=0.29650396294891834
+ERR: 非法操作:deal
+
+[ 2016-02-05T21:50:14+08:00 ] ::1 /tp002/index.php/Home/User/addurl
+ERR: 非法操作:addurl
+
+[ 2016-02-05T21:50:25+08:00 ] ::1 /tp002/index.php/Home/User/addurl
+ERR: 非法操作:addurl
+
+[ 2016-02-05T21:50:26+08:00 ] ::1 /tp002/index.php/Home/User/addurl
+ERR: 非法操作:addurl
+
+[ 2016-02-05T21:50:27+08:00 ] ::1 /tp002/index.php/Home/User/addurl
+ERR: 非法操作:addurl
+
+[ 2016-02-05T21:50:39+08:00 ] ::1 /tp002/index.php/Home/User/addurl
+ERR: 非法操作:addurl
+
+[ 2016-02-05T21:50:41+08:00 ] ::1 /tp002/index.php/Home/User/addurl
+ERR: 非法操作:addurl
+
+[ 2016-02-05T21:51:08+08:00 ] ::1 /tp002/index.php/Home/User/addurl
+ERR: 非法操作:addurl
+
+[ 2016-02-05T21:51:38+08:00 ] ::1 /tp002/index.php/Home/User/addurl
+ERR: 非法操作:addurl
+
+[ 2016-02-05T21:51:39+08:00 ] ::1 /tp002/index.php/Home/User/addurl
+ERR: 非法操作:addurl
+
+[ 2016-02-05T21:51:40+08:00 ] ::1 /tp002/index.php/Home/User/addurl
+ERR: 非法操作:addurl
+
+[ 2016-02-05T21:51:40+08:00 ] ::1 /tp002/index.php/Home/User/addurl
+ERR: 非法操作:addurl
+
+[ 2016-02-05T21:51:40+08:00 ] ::1 /tp002/index.php/Home/User/addurl
+ERR: 非法操作:addurl
+
+[ 2016-02-05T21:51:40+08:00 ] ::1 /tp002/index.php/Home/User/addurl
+ERR: 非法操作:addurl
+
+[ 2016-02-05T21:51:40+08:00 ] ::1 /tp002/index.php/Home/User/addurl
+ERR: 非法操作:addurl
+
+[ 2016-02-05T21:51:41+08:00 ] ::1 /tp002/index.php/Home/User/addurl
+ERR: 非法操作:addurl
+
+[ 2016-02-05T21:51:41+08:00 ] ::1 /tp002/index.php/Home/User/addurl
+ERR: 非法操作:addurl
+
+[ 2016-02-05T21:51:41+08:00 ] ::1 /tp002/index.php/Home/User/addurl
+ERR: 非法操作:addurl
+
+[ 2016-02-05T21:51:41+08:00 ] ::1 /tp002/index.php/Home/User/addurl
+ERR: 非法操作:addurl
+
+[ 2016-02-05T21:51:41+08:00 ] ::1 /tp002/index.php/Home/User/addurl
+ERR: 非法操作:addurl
+
+[ 2016-02-05T21:51:42+08:00 ] ::1 /tp002/index.php/Home/User/addurl
+ERR: 非法操作:addurl
+
+[ 2016-02-05T21:51:42+08:00 ] ::1 /tp002/index.php/Home/User/addurl
+ERR: 非法操作:addurl
+
+[ 2016-02-05T21:51:42+08:00 ] ::1 /tp002/index.php/Home/User/addurl
+ERR: 非法操作:addurl
+
+[ 2016-02-05T21:51:42+08:00 ] ::1 /tp002/index.php/Home/User/addurl
+ERR: 非法操作:addurl
+
+[ 2016-02-05T21:51:42+08:00 ] ::1 /tp002/index.php/Home/User/addurl
+ERR: 非法操作:addurl
+
+[ 2016-02-05T21:51:43+08:00 ] ::1 /tp002/index.php/Home/User/addurl
+ERR: 非法操作:addurl
+
+[ 2016-02-05T21:51:43+08:00 ] ::1 /tp002/index.php/Home/User/addurl
+ERR: 非法操作:addurl
+
+[ 2016-02-05T21:51:43+08:00 ] ::1 /tp002/index.php/Home/User/addurl
+ERR: 非法操作:addurl
+
+[ 2016-02-05T21:51:43+08:00 ] ::1 /tp002/index.php/Home/User/addurl
+ERR: 非法操作:addurl
+
+[ 2016-02-05T21:51:44+08:00 ] ::1 /tp002/index.php/Home/User/addurl
+ERR: 非法操作:addurl
+
+[ 2016-02-05T21:51:44+08:00 ] ::1 /tp002/index.php/Home/User/addurl
+ERR: 非法操作:addurl
+
+[ 2016-02-05T21:51:44+08:00 ] ::1 /tp002/index.php/Home/User/addurl
+ERR: 非法操作:addurl
+
+[ 2016-02-05T21:51:44+08:00 ] ::1 /tp002/index.php/Home/User/addurl
+ERR: 非法操作:addurl
+
+[ 2016-02-05T21:51:44+08:00 ] ::1 /tp002/index.php/Home/User/addurl
+ERR: 非法操作:addurl
+
+[ 2016-02-05T21:51:45+08:00 ] ::1 /tp002/index.php/Home/User/addurl
+ERR: 非法操作:addurl
+
+[ 2016-02-05T21:51:45+08:00 ] ::1 /tp002/index.php/Home/User/addurl
+ERR: 非法操作:addurl
+
+[ 2016-02-05T21:51:45+08:00 ] ::1 /tp002/index.php/Home/User/addurl
+ERR: 非法操作:addurl
+
+[ 2016-02-05T21:51:51+08:00 ] ::1 /tp002/index.php/Home/User/addUrl
+ERR: 非法操作:addUrl
+
+[ 2016-02-05T21:52:18+08:00 ] ::1 /tp002/index.php/Home/User/addUrl
+ERR: 非法操作:addUrl
+
+[ 2016-02-05T21:52:21+08:00 ] ::1 /tp002/index.php/Home/User/addUrl
+ERR: 非法操作:addUrl
+
+[ 2016-02-05T22:53:29+08:00 ] ::1 /tp002/index.php/Home/Index/add_url_deal
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',,,16-02-05 22:53:29)' at line 1
+ [ SQL语句 ] : INSERT yu_urls(url_content,url_host,url_title,url_tag,url_time) VALUES(,,,,16-02-05 22:53:29)
+
+[ 2016-02-05T22:54:52+08:00 ] ::1 /tp002/index.php/Home/Index/add_url_deal
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '22:54:52)' at line 1
+ [ SQL语句 ] : INSERT yu_urls(url_content,url_host,url_title,url_tag,url_time) VALUES('','','','',16-02-05 22:54:52)
+
+[ 2016-02-05T22:57:13+08:00 ] ::1 /tp002/index.php/Home/Index/add_url_deal
+ERR: 1065:Query was empty
+
+[ 2016-02-05T23:14:49+08:00 ] ::1 /tp002/index.php/Home/Index/add_url_deal
+ERR: 1065:Query was empty
+
+[ 2016-02-05T23:24:32+08:00 ] ::1 /tp002/index.php/Home/add/add.html
+ERR: 无法加载控制器:Add
+

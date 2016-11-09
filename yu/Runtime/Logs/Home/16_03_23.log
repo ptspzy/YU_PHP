@@ -1,0 +1,6 @@
+[ 2016-03-23T10:48:45+08:00 ] ::1 /yuv2/2/index.php/home/index/open_urls.aspx
+ERR: 1054:Unknown column 'url_del' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `yu_urls` WHERE ( url_open=1 and url_del= '0' ) ORDER BY ID desc LIMIT 10  
+ERR: 1054:Unknown column 'url_del' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `yu_urls` WHERE ( url_open=1 and url_del= '0' ) ORDER BY ID desc LIMIT 10  
+

@@ -1,0 +1,314 @@
+[ 2016-03-07T11:41:48+08:00 ] ::1 /yu/
+ERR: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: ��֪�������������� 
+
+[ 2016-03-07T11:42:30+08:00 ] ::1 /yu/
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'SAE_MYSQL_USER'@'localhost' (using password: YES)
+
+[ 2016-03-07T11:57:07+08:00 ] ::1 /yu/index.php/Home/Index/ajax_left_all_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000866s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001584s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0267s ]
+SQL: SELECT DISTINCT(url_tag) FROM yu_urls WHERE url_open='1' ORDER BY ID [ RunTime:0.0068s ]
+
+[ 2016-03-07T11:57:09+08:00 ] ::1 /yu/index.php/Home/Index/ajax_note
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000828s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001627s ]
+SQL: SHOW COLUMNS FROM `yu_notes` [ RunTime:0.0977s ]
+SQL: SELECT note_content,note_tag,note_time,user_login FROM yu_notes,yu_users WHERE note_open='1' AND yu_users.ID=yu_notes.user_id ORDER BY yu_notes.ID DESC LIMIT 20 [ RunTime:0.0405s ]
+
+[ 2016-03-07T11:57:13+08:00 ] ::1 /yu/index.php/Home/Index/ajax_left_all_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001096s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001920s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0500s ]
+SQL: SELECT DISTINCT(url_tag) FROM yu_urls WHERE url_open='1' ORDER BY ID [ RunTime:0.0056s ]
+
+[ 2016-03-07T11:57:44+08:00 ] ::1 /yu/index.php/Home/Index/ajax_left_all_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000816s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001524s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0061s ]
+SQL: SELECT DISTINCT(url_tag) FROM yu_urls WHERE user_id='1' ORDER BY ID [ RunTime:0.0046s ]
+
+[ 2016-03-07T11:57:45+08:00 ] ::1 /yu/index.php/Home/Index/ajax_note
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000703s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001235s ]
+SQL: SHOW COLUMNS FROM `yu_notes` [ RunTime:0.0046s ]
+SQL: SELECT note_content,note_tag,note_time,user_login FROM yu_notes,yu_users WHERE user_id='1' AND yu_users.ID=yu_notes.user_id ORDER BY yu_notes.ID DESC LIMIT 20 [ RunTime:0.0006s ]
+
+[ 2016-03-07T11:58:24+08:00 ] ::1 /yu/index.php/Home/Index/ajax_note
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000952s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001686s ]
+SQL: SHOW COLUMNS FROM `yu_notes` [ RunTime:0.0051s ]
+SQL: SELECT note_content,note_tag,note_time,user_login FROM yu_notes,yu_users WHERE note_open='1' AND yu_users.ID=yu_notes.user_id ORDER BY yu_notes.ID DESC LIMIT 20 [ RunTime:0.0007s ]
+
+[ 2016-03-07T11:58:25+08:00 ] ::1 /yu/index.php/Home/Index/ajax_note
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000937s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001595s ]
+SQL: SHOW COLUMNS FROM `yu_notes` [ RunTime:0.0078s ]
+SQL: SELECT note_content,note_tag,note_time,user_login FROM yu_notes,yu_users WHERE note_open='1' AND yu_users.ID=yu_notes.user_id ORDER BY yu_notes.ID DESC LIMIT 20 [ RunTime:0.0007s ]
+
+[ 2016-03-07T11:58:26+08:00 ] ::1 /yu/index.php/Home/Index/ajax_note
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000778s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001385s ]
+SQL: SHOW COLUMNS FROM `yu_notes` [ RunTime:0.0047s ]
+SQL: SELECT note_content,note_tag,note_time,user_login FROM yu_notes,yu_users WHERE note_open='1' AND yu_users.ID=yu_notes.user_id ORDER BY yu_notes.ID DESC LIMIT 20 [ RunTime:0.0006s ]
+
+[ 2016-03-07T11:58:27+08:00 ] ::1 /yu/index.php/Home/Index/ajax_left_all_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001403s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002652s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0085s ]
+SQL: SELECT DISTINCT(url_tag) FROM yu_urls WHERE url_open='1' ORDER BY ID [ RunTime:0.0045s ]
+
+[ 2016-03-07T11:58:28+08:00 ] ::1 /yu/index.php/Home/Index/ajax_note
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002197s ]
+SQL: SHOW COLUMNS FROM `yu_notes` [ RunTime:0.0061s ]
+SQL: SELECT note_content,note_tag,note_time,user_login FROM yu_notes,yu_users WHERE note_open='1' AND yu_users.ID=yu_notes.user_id ORDER BY yu_notes.ID DESC LIMIT 20 [ RunTime:0.0007s ]
+
+[ 2016-03-07T11:58:28+08:00 ] ::1 /yu/index.php/Home/Index/ajax_left_all_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001919s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0048s ]
+SQL: SELECT DISTINCT(url_tag) FROM yu_urls WHERE url_open='1' ORDER BY ID [ RunTime:0.0048s ]
+
+[ 2016-03-07T11:58:29+08:00 ] ::1 /yu/index.php/Home/Index/ajax_note
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000961s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001684s ]
+SQL: SHOW COLUMNS FROM `yu_notes` [ RunTime:0.0057s ]
+SQL: SELECT note_content,note_tag,note_time,user_login FROM yu_notes,yu_users WHERE note_open='1' AND yu_users.ID=yu_notes.user_id ORDER BY yu_notes.ID DESC LIMIT 20 [ RunTime:0.0007s ]
+
+[ 2016-03-07T11:58:30+08:00 ] ::1 /yu/index.php/Home/Index/ajax_left_all_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000769s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001386s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0089s ]
+SQL: SELECT DISTINCT(url_tag) FROM yu_urls WHERE url_open='1' ORDER BY ID [ RunTime:0.0046s ]
+
+[ 2016-03-07T11:58:30+08:00 ] ::1 /yu/index.php/Home/Index/ajax_note
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000770s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001343s ]
+SQL: SHOW COLUMNS FROM `yu_notes` [ RunTime:0.0051s ]
+SQL: SELECT note_content,note_tag,note_time,user_login FROM yu_notes,yu_users WHERE note_open='1' AND yu_users.ID=yu_notes.user_id ORDER BY yu_notes.ID DESC LIMIT 20 [ RunTime:0.0007s ]
+
+[ 2016-03-07T11:58:31+08:00 ] ::1 /yu/index.php/Home/Index/ajax_note
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001227s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001949s ]
+SQL: SHOW COLUMNS FROM `yu_notes` [ RunTime:0.0082s ]
+SQL: SELECT note_content,note_tag,note_time,user_login FROM yu_notes,yu_users WHERE note_open='1' AND yu_users.ID=yu_notes.user_id ORDER BY yu_notes.ID DESC LIMIT 20 [ RunTime:0.0007s ]
+
+[ 2016-03-07T11:58:32+08:00 ] ::1 /yu/index.php/Home/Index/ajax_note
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001197s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002368s ]
+SQL: SHOW COLUMNS FROM `yu_notes` [ RunTime:0.0062s ]
+SQL: SELECT note_content,note_tag,note_time,user_login FROM yu_notes,yu_users WHERE note_open='1' AND yu_users.ID=yu_notes.user_id ORDER BY yu_notes.ID DESC LIMIT 20 [ RunTime:0.0011s ]
+
+[ 2016-03-07T11:58:33+08:00 ] ::1 /yu/index.php/Home/Index/ajax_left_all_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000773s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001337s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0089s ]
+SQL: SELECT DISTINCT(url_tag) FROM yu_urls WHERE url_open='1' ORDER BY ID [ RunTime:0.0054s ]
+
+[ 2016-03-07T11:58:33+08:00 ] ::1 /yu/index.php/Home/Index/ajax_note
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001196s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002078s ]
+SQL: SHOW COLUMNS FROM `yu_notes` [ RunTime:0.0322s ]
+SQL: SELECT note_content,note_tag,note_time,user_login FROM yu_notes,yu_users WHERE note_open='1' AND yu_users.ID=yu_notes.user_id ORDER BY yu_notes.ID DESC LIMIT 20 [ RunTime:0.0009s ]
+
+[ 2016-03-07T11:58:34+08:00 ] ::1 /yu/index.php/Home/Index/ajax_left_all_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000888s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001600s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.1241s ]
+SQL: SELECT DISTINCT(url_tag) FROM yu_urls WHERE url_open='1' ORDER BY ID [ RunTime:0.0725s ]
+
+[ 2016-03-07T17:01:59+08:00 ] ::1 /yu/index.php/Home/Index/ajax_note
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002586s ]
+SQL: SHOW COLUMNS FROM `yu_notes` [ RunTime:0.0106s ]
+SQL: SELECT note_content,note_tag,note_time,user_login FROM yu_notes,yu_users WHERE note_open='1' AND yu_users.ID=yu_notes.user_id ORDER BY yu_notes.ID DESC LIMIT 20 [ RunTime:0.0013s ]
+
+[ 2016-03-07T17:07:48+08:00 ] ::1 /yu/index.php/Home/Index/ajax_note
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000933s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001786s ]
+SQL: SHOW COLUMNS FROM `yu_notes` [ RunTime:0.0083s ]
+SQL: SELECT note_content,note_tag,note_time,user_login FROM yu_notes,yu_users WHERE note_open='1' AND yu_users.ID=yu_notes.user_id ORDER BY yu_notes.ID DESC LIMIT 20 [ RunTime:0.0007s ]
+
+[ 2016-03-07T17:07:48+08:00 ] ::1 /yu/index.php/Home/Index/ajax_left_all_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000761s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001307s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0106s ]
+SQL: SELECT DISTINCT(url_tag) FROM yu_urls WHERE url_open='1' ORDER BY ID [ RunTime:0.0058s ]
+
+[ 2016-03-07T17:07:49+08:00 ] ::1 /yu/index.php/Home/Index/ajax_note
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000878s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001526s ]
+SQL: SHOW COLUMNS FROM `yu_notes` [ RunTime:0.0568s ]
+SQL: SELECT note_content,note_tag,note_time,user_login FROM yu_notes,yu_users WHERE note_open='1' AND yu_users.ID=yu_notes.user_id ORDER BY yu_notes.ID DESC LIMIT 20 [ RunTime:0.0007s ]
+
+[ 2016-03-07T17:07:50+08:00 ] ::1 /yu/index.php/Home/Index/ajax_left_all_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000786s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001344s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0087s ]
+SQL: SELECT DISTINCT(url_tag) FROM yu_urls WHERE url_open='1' ORDER BY ID [ RunTime:0.0050s ]
+
+[ 2016-03-07T17:07:51+08:00 ] ::1 /yu/index.php/Home/Index/ajax_note
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000795s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001393s ]
+SQL: SHOW COLUMNS FROM `yu_notes` [ RunTime:0.0086s ]
+SQL: SELECT note_content,note_tag,note_time,user_login FROM yu_notes,yu_users WHERE note_open='1' AND yu_users.ID=yu_notes.user_id ORDER BY yu_notes.ID DESC LIMIT 20 [ RunTime:0.0007s ]
+
+[ 2016-03-07T17:08:32+08:00 ] ::1 /yu/index.php/Home/Index/ajax_note
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000793s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001346s ]
+SQL: SHOW COLUMNS FROM `yu_notes` [ RunTime:0.0084s ]
+SQL: SELECT note_content,note_tag,note_time,user_login FROM yu_notes,yu_users WHERE note_open='1' AND yu_users.ID=yu_notes.user_id ORDER BY yu_notes.ID DESC LIMIT 20 [ RunTime:0.0008s ]
+
+[ 2016-03-07T17:08:32+08:00 ] ::1 /yu/index.php/Home/Index/ajax_left_all_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001775s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0305s ]
+SQL: SELECT DISTINCT(url_tag) FROM yu_urls WHERE url_open='1' ORDER BY ID [ RunTime:0.0050s ]
+
+[ 2016-03-07T17:08:33+08:00 ] ::1 /yu/index.php/Home/Index/ajax_note
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000850s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001443s ]
+SQL: SHOW COLUMNS FROM `yu_notes` [ RunTime:0.0044s ]
+SQL: SELECT note_content,note_tag,note_time,user_login FROM yu_notes,yu_users WHERE note_open='1' AND yu_users.ID=yu_notes.user_id ORDER BY yu_notes.ID DESC LIMIT 20 [ RunTime:0.0007s ]
+
+[ 2016-03-07T17:08:36+08:00 ] ::1 /yu/index.php/Home/Index/ajax_left_all_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000791s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001375s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0045s ]
+SQL: SELECT DISTINCT(url_tag) FROM yu_urls WHERE url_open='1' ORDER BY ID [ RunTime:0.0055s ]
+
+[ 2016-03-07T17:08:40+08:00 ] ::1 /yu/index.php/Home/Index/ajax_note
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000895s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001643s ]
+SQL: SHOW COLUMNS FROM `yu_notes` [ RunTime:0.0089s ]
+SQL: SELECT note_content,note_tag,note_time,user_login FROM yu_notes,yu_users WHERE note_open='1' AND yu_users.ID=yu_notes.user_id ORDER BY yu_notes.ID DESC LIMIT 20 [ RunTime:0.0007s ]
+
+[ 2016-03-07T17:09:02+08:00 ] ::1 /yu/index.php/Home/Index/ajax_note
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000824s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001356s ]
+SQL: SHOW COLUMNS FROM `yu_notes` [ RunTime:0.1965s ]
+SQL: SELECT note_content,note_tag,note_time,user_login FROM yu_notes,yu_users WHERE note_open='1' AND yu_users.ID=yu_notes.user_id ORDER BY yu_notes.ID DESC LIMIT 20 [ RunTime:0.0009s ]
+
+[ 2016-03-07T17:09:03+08:00 ] ::1 /yu/index.php/Home/Index/ajax_left_all_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001876s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0053s ]
+SQL: SELECT DISTINCT(url_tag) FROM yu_urls WHERE url_open='1' ORDER BY ID [ RunTime:0.0058s ]
+
+[ 2016-03-07T17:16:08+08:00 ] ::1 /yu/index.php/Home/Index/ajax_note
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000960s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001579s ]
+SQL: SHOW COLUMNS FROM `yu_notes` [ RunTime:0.0053s ]
+SQL: SELECT note_content,note_tag,note_time,user_login FROM yu_notes,yu_users WHERE note_open='1' AND yu_users.ID=yu_notes.user_id ORDER BY yu_notes.ID DESC LIMIT 20 [ RunTime:0.0008s ]
+
+[ 2016-03-07T17:27:57+08:00 ] ::1 /yu/index.php/Home/Index/ajax_note
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000866s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001573s ]
+SQL: SHOW COLUMNS FROM `yu_notes` [ RunTime:0.0050s ]
+SQL: SELECT note_content,note_tag,note_time,user_login FROM yu_notes,yu_users WHERE note_open='1' AND yu_users.ID=yu_notes.user_id ORDER BY yu_notes.ID DESC LIMIT 20 [ RunTime:0.0007s ]
+
+[ 2016-03-07T17:27:58+08:00 ] ::1 /yu/index.php/Home/Index/ajax_left_all_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000724s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001317s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0086s ]
+SQL: SELECT DISTINCT(url_tag) FROM yu_urls WHERE url_open='1' ORDER BY ID [ RunTime:0.0049s ]
+
+[ 2016-03-07T17:27:59+08:00 ] ::1 /yu/index.php/Home/Index/ajax_note
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000872s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001540s ]
+SQL: SHOW COLUMNS FROM `yu_notes` [ RunTime:0.0046s ]
+SQL: SELECT note_content,note_tag,note_time,user_login FROM yu_notes,yu_users WHERE note_open='1' AND yu_users.ID=yu_notes.user_id ORDER BY yu_notes.ID DESC LIMIT 20 [ RunTime:0.0007s ]
+
+[ 2016-03-07T17:28:01+08:00 ] ::1 /yu/index.php/Home/Index/ajax_left_all_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000772s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001323s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0077s ]
+SQL: SELECT DISTINCT(url_tag) FROM yu_urls WHERE url_open='1' ORDER BY ID [ RunTime:0.0056s ]
+
+[ 2016-03-07T17:28:02+08:00 ] ::1 /yu/index.php/Home/Index/ajax_note
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000891s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001537s ]
+SQL: SHOW COLUMNS FROM `yu_notes` [ RunTime:0.1803s ]
+SQL: SELECT note_content,note_tag,note_time,user_login FROM yu_notes,yu_users WHERE note_open='1' AND yu_users.ID=yu_notes.user_id ORDER BY yu_notes.ID DESC LIMIT 20 [ RunTime:0.0008s ]
+
+[ 2016-03-07T17:28:05+08:00 ] ::1 /yu/index.php/Home/Index/ajax_note
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000770s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001477s ]
+SQL: SHOW COLUMNS FROM `yu_notes` [ RunTime:0.0051s ]
+SQL: SELECT note_content,note_tag,note_time,user_login FROM yu_notes,yu_users WHERE note_open='1' AND yu_users.ID=yu_notes.user_id ORDER BY yu_notes.ID DESC LIMIT 20 [ RunTime:0.0011s ]
+
+[ 2016-03-07T17:28:05+08:00 ] ::1 /yu/index.php/Home/Index/ajax_left_all_tag
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000748s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001353s ]
+SQL: SHOW COLUMNS FROM `yu_urls` [ RunTime:0.0055s ]
+SQL: SELECT DISTINCT(url_tag) FROM yu_urls WHERE url_open='1' ORDER BY ID [ RunTime:0.0047s ]
+
+[ 2016-03-07T19:24:36+08:00 ] ::1 /yu/index.php/Home/Index/note.html
+ERR: 非法操作:note
+
+[ 2016-03-07T21:22:46+08:00 ] ::1 /yu/index.php/Home/Index/tags.html
+ERR: 1146:Table 'yu.yu_tags' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `yu_tags`
+
+[ 2016-03-07T23:50:17+08:00 ] ::1 /yu/index.php/Home/Home/Index.html
+ERR: 无法加载控制器:Home
+
+[ 2016-03-07T23:50:26+08:00 ] ::1 /yu/index.php/Home/Home/Index.html
+ERR: 无法加载控制器:Home
+
+[ 2016-03-07T23:50:27+08:00 ] ::1 /yu/index.php/Home/Home/Index.html
+ERR: 无法加载控制器:Home
+
+[ 2016-03-07T23:50:28+08:00 ] ::1 /yu/index.php/Home/Home/Index.html
+ERR: 无法加载控制器:Home
+
+[ 2016-03-07T23:50:34+08:00 ] ::1 /yu/index.php/Home/Home/Index.html
+ERR: 无法加载控制器:Home
+
+[ 2016-03-07T23:51:01+08:00 ] ::1 /yu/index.php/Home/Home/Index.html
+ERR: 无法加载控制器:Home
+
+[ 2016-03-07T23:51:05+08:00 ] ::1 /yu/index.php/Home
+ERR: 模板不存在:./yu/Home/View/Index/未登录.html
+

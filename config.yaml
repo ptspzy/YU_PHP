@@ -1,7 +1,0 @@
-name: yoururls
-version: 1
-handle:
-- rewrite: if(!is_dir() && !is_file() && path~"^(.*)$") goto "index.php/$1"
-- hostaccess: if(path ~ "^/App") deny "all"
-- hostaccess: if(path ~ "^/ThinkPHP") deny "all"
-- hostaccess: if(path ~ "^/config.yaml") deny "all"

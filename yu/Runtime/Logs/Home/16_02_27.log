@@ -1,3 +1,0 @@
-[ 2016-02-27T21:18:39+08:00 ] ::1 /yoururls/1/
-ERR: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: 不知道这样的主机。 
-
